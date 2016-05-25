@@ -2,7 +2,7 @@
 
 `WaterFallLayout`是一个轻量的，用来为`UICollectionView`生成瀑布流视图样式的布局框架。
 
-![alt tag](https://github.com/hellometers/WaterFallLayout/images/waterfall-screenshot.png)
+![alt tag](https://raw.githubusercontent.com/hellometers/WaterFallLayout/master/images/waterfall-screenshot.png)
 
 ### 使用方法
 
